@@ -1,0 +1,929 @@
+1669395825748	geckodriver	INFO	Listening on 127.0.0.1:41945
+1669395826257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemxO0cD"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669395826981	Marionette	INFO	Marionette enabled
+1669395826984	Marionette	INFO	Listening on port 42493
+WebDriver BiDi listening on ws://127.0.0.1:47157
+Read port: 42493
+1669395827092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemxO0cD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47157/devtools/browser/f6361f77-517a-4fc5-8596-9c532b9ffa66
+1669395831918	Marionette	INFO	Stopped listening on port 42493
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669395866354	geckodriver	INFO	Listening on 127.0.0.1:57199
+1669395866357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek0SOns"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669395866899	Marionette	INFO	Marionette enabled
+1669395866902	Marionette	INFO	Listening on port 37165
+WebDriver BiDi listening on ws://127.0.0.1:36247
+Read port: 37165
+1669395867048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek0SOns/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36247/devtools/browser/3cbe2c85-c180-41ca-9bcf-7aad57471f72
+1669395872963	Marionette	INFO	Stopped listening on port 37165
+1669395886052	geckodriver	INFO	Listening on 127.0.0.1:35071
+1669395886055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3GC4Ii"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669395886600	Marionette	INFO	Marionette enabled
+1669395886603	Marionette	INFO	Listening on port 46249
+WebDriver BiDi listening on ws://127.0.0.1:59945
+Read port: 46249
+1669395886748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3GC4Ii/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59945/devtools/browser/8432021a-77b8-4858-a623-a97fe5dd07a3
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669395926559	Marionette	INFO	Stopped listening on port 46249
+1669396133802	geckodriver	INFO	Listening on 127.0.0.1:43389
+1669396133806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQKShr7"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669396134348	Marionette	INFO	Marionette enabled
+1669396134351	Marionette	INFO	Listening on port 40203
+Read port: 40203
+WebDriver BiDi listening on ws://127.0.0.1:36227
+1669396134444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQKShr7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36227/devtools/browser/f6f5b822-99dd-4b8a-b9cb-63cd44a10d41
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669396159874	Marionette	INFO	Stopped listening on port 40203
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669396183409	geckodriver	INFO	Listening on 127.0.0.1:54539
+1669396183413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileubX7Ms"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669396183946	Marionette	INFO	Marionette enabled
+1669396183948	Marionette	INFO	Listening on port 45921
+WebDriver BiDi listening on ws://127.0.0.1:60193
+Read port: 45921
+1669396184120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileubX7Ms/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60193/devtools/browser/7fa72ea2-39a6-4760-95ef-60d4a7bdcab0
+1669396207532	Marionette	INFO	Stopped listening on port 45921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669396211018	geckodriver	INFO	Listening on 127.0.0.1:58425
+1669396211021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemmhD8K"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669396211547	Marionette	INFO	Marionette enabled
+1669396211550	Marionette	INFO	Listening on port 41269
+WebDriver BiDi listening on ws://127.0.0.1:48835
+Read port: 41269
+1669396211722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemmhD8K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48835/devtools/browser/412a4ba5-9f7d-478f-a861-92871486c6ce
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669396381306	Marionette	INFO	Stopped listening on port 41269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669396468524	geckodriver	INFO	Listening on 127.0.0.1:36639
+1669396468527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevMiIGc"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669396469112	Marionette	INFO	Marionette enabled
+1669396469115	Marionette	INFO	Listening on port 34753
+Read port: 34753
+WebDriver BiDi listening on ws://127.0.0.1:42649
+1669396469188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevMiIGc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42649/devtools/browser/7efd7876-1fa8-4af1-9508-bf5d70fffd12
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669396826134	Marionette	INFO	Stopped listening on port 34753
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669397729518	geckodriver	INFO	Listening on 127.0.0.1:55745
+1669397729521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegzTp2J"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669397730059	Marionette	INFO	Marionette enabled
+1669397730063	Marionette	INFO	Listening on port 43307
+WebDriver BiDi listening on ws://127.0.0.1:52809
+Read port: 43307
+1669397730211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegzTp2J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52809/devtools/browser/db6c760a-668c-4ab8-8eeb-2e75d0f9065b
+1669397741902	Marionette	INFO	Stopped listening on port 43307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669397760327	geckodriver	INFO	Listening on 127.0.0.1:35745
+1669397760330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEiYg2M"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669397760872	Marionette	INFO	Marionette enabled
+1669397760875	Marionette	INFO	Listening on port 46023
+WebDriver BiDi listening on ws://127.0.0.1:44635
+Read port: 46023
+1669397761024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEiYg2M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44635/devtools/browser/dbf30f1f-aac6-408c-a803-8f752928df9e
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+[Child 17173, MediaDecoderStateMachine #1] WARNING: Decoder=7fc773470d00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-d2rqjR/firefox-106.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17173, MediaDecoderStateMachine #1] WARNING: Decoder=7fc773470d00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-d2rqjR/firefox-106.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17173, MediaDecoderStateMachine #1] WARNING: Decoder=7fc77346e000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-d2rqjR/firefox-106.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17173, MediaDecoderStateMachine #1] WARNING: Decoder=7fc77346e000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-d2rqjR/firefox-106.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17173, MediaDecoderStateMachine #1] WARNING: Decoder=7fc7734ae200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-d2rqjR/firefox-106.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 17173, MediaDecoderStateMachine #1] WARNING: Decoder=7fc7734ae200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-d2rqjR/firefox-106.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1669397839797	Marionette	INFO	Stopped listening on port 46023
+1669397859953	geckodriver	INFO	Listening on 127.0.0.1:51385
+1669397859957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqhKvOX"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669397860527	Marionette	INFO	Marionette enabled
+1669397860529	Marionette	INFO	Listening on port 40823
+Read port: 40823
+WebDriver BiDi listening on ws://127.0.0.1:33209
+1669397860607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqhKvOX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33209/devtools/browser/0b52dced-2c43-4579-b372-e3435a8092e5
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669397943619	geckodriver	INFO	Listening on 127.0.0.1:59019
+1669397943622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilembDSJE"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669397944289	Marionette	INFO	Marionette enabled
+1669397944292	Marionette	INFO	Listening on port 39175
+Read port: 39175
+WebDriver BiDi listening on ws://127.0.0.1:49621
+1669397944370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilembDSJE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49621/devtools/browser/be26c820-e19b-4c70-80e4-cf67a69d27c3
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669397976696	Marionette	INFO	Stopped listening on port 39175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669397987566	geckodriver	INFO	Listening on 127.0.0.1:37317
+1669397987569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKYWxsc"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669397988207	Marionette	INFO	Marionette enabled
+1669397988210	Marionette	INFO	Listening on port 42145
+WebDriver BiDi listening on ws://127.0.0.1:41359
+Read port: 42145
+1669397988306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKYWxsc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41359/devtools/browser/824f2965-11fa-46e5-88fe-a8873d94f5dd
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669398036006	Marionette	INFO	Stopped listening on port 42145
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669398128666	geckodriver	INFO	Listening on 127.0.0.1:43953
+1669398128669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegbXU8f"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398129290	Marionette	INFO	Marionette enabled
+1669398129293	Marionette	INFO	Listening on port 45477
+WebDriver BiDi listening on ws://127.0.0.1:57083
+Read port: 45477
+1669398129500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegbXU8f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57083/devtools/browser/3cfa4880-5640-4b86-b1e8-7bed475d84f2
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669398169797	Marionette	INFO	Stopped listening on port 45477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669398211561	geckodriver	INFO	Listening on 127.0.0.1:43937
+1669398211565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepsrtgC"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398212187	Marionette	INFO	Marionette enabled
+1669398212190	Marionette	INFO	Listening on port 38843
+WebDriver BiDi listening on ws://127.0.0.1:59869
+Read port: 38843
+1669398212384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepsrtgC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59869/devtools/browser/3d5f4b58-bd42-42a6-8c48-7b3b111abcbc
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1669398265176	Marionette	INFO	Stopped listening on port 38843
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669398364998	geckodriver	INFO	Listening on 127.0.0.1:58015
+1669398365002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenny2IV"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398365616	Marionette	INFO	Marionette enabled
+1669398365619	Marionette	INFO	Listening on port 43235
+WebDriver BiDi listening on ws://127.0.0.1:46763
+Read port: 43235
+1669398365818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenny2IV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46763/devtools/browser/b0d66eea-e842-4dd8-b6b4-ffc7dab16449
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1669398415595	Marionette	INFO	Stopped listening on port 43235
+1669398418297	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1669398514373	geckodriver	INFO	Listening on 127.0.0.1:40595
+1669398514377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep5vPCy"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398515004	Marionette	INFO	Marionette enabled
+1669398515007	Marionette	INFO	Listening on port 44043
+WebDriver BiDi listening on ws://127.0.0.1:45095
+Read port: 44043
+1669398515206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep5vPCy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45095/devtools/browser/d0f689c5-462a-45a5-8e87-c92dc3b92f66
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1669398567419	Marionette	INFO	Stopped listening on port 44043
+1669398584979	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1669398622486	geckodriver	INFO	Listening on 127.0.0.1:59345
+1669398622489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXvxXVn"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398623098	Marionette	INFO	Marionette enabled
+1669398623101	Marionette	INFO	Listening on port 38063
+WebDriver BiDi listening on ws://127.0.0.1:56987
+Read port: 38063
+1669398623305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXvxXVn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56987/devtools/browser/2ce4ac4d-3d6f-4f49-9137-fccfd3d9dd0e
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669398679657	Marionette	INFO	Stopped listening on port 38063
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669398688453	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1669398766487	geckodriver	INFO	Listening on 127.0.0.1:54537
+1669398766491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSzNMRN"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398767105	Marionette	INFO	Marionette enabled
+1669398767108	Marionette	INFO	Listening on port 46537
+WebDriver BiDi listening on ws://127.0.0.1:38943
+Read port: 46537
+1669398767307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSzNMRN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38943/devtools/browser/0c3f0e6d-2c8e-4197-8244-c06a7c689b93
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669398794901	Marionette	INFO	Stopped listening on port 46537
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669398810337	geckodriver	INFO	Listening on 127.0.0.1:47421
+1669398810340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIRqVPp"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398810956	Marionette	INFO	Marionette enabled
+1669398810960	Marionette	INFO	Listening on port 36011
+WebDriver BiDi listening on ws://127.0.0.1:44961
+Read port: 36011
+1669398811176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIRqVPp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44961/devtools/browser/255f8ba4-c9b7-4f5a-ae8a-20aadbe95d50
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669398848125	Marionette	INFO	Stopped listening on port 36011
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669398987000	geckodriver	INFO	Listening on 127.0.0.1:43057
+1669398987003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD5HvWb"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669398987603	Marionette	INFO	Marionette enabled
+1669398987606	Marionette	INFO	Listening on port 37857
+Read port: 37857
+WebDriver BiDi listening on ws://127.0.0.1:55329
+1669398987688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD5HvWb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55329/devtools/browser/2b4ff032-9451-4494-9f0c-b8dab3e4cae2
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669399028790	Marionette	INFO	Stopped listening on port 37857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669399032838	Marionette	INFO	Stopped listening on port 40823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669399035888	geckodriver	INFO	Listening on 127.0.0.1:58229
+1669399035891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR31zJS"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669399036455	Marionette	INFO	Marionette enabled
+1669399036458	Marionette	INFO	Listening on port 33827
+Read port: 33827
+WebDriver BiDi listening on ws://127.0.0.1:59143
+1669399036539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR31zJS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59143/devtools/browser/1538f55f-4166-40dc-9136-f58cb505261b
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669399079156	Marionette	INFO	Stopped listening on port 33827
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669399101269	geckodriver	INFO	Listening on 127.0.0.1:60673
+1669399101272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledsWtd5"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669399101816	Marionette	INFO	Marionette enabled
+1669399101820	Marionette	INFO	Listening on port 43805
+Read port: 43805
+WebDriver BiDi listening on ws://127.0.0.1:33045
+1669399101913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledsWtd5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33045/devtools/browser/ba0282eb-0595-4c1b-bb88-537407b64b0b
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669399205257	geckodriver	INFO	Listening on 127.0.0.1:34219
+1669399205260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyyCVtP"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669399205885	Marionette	INFO	Marionette enabled
+1669399205888	Marionette	INFO	Listening on port 34325
+WebDriver BiDi listening on ws://127.0.0.1:46841
+Read port: 34325
+1669399206092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyyCVtP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46841/devtools/browser/c4388cbc-5ebb-4f36-bc76-1d4aa0eeb833
+1669399214429	Marionette	INFO	Stopped listening on port 43805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669399215813	Marionette	INFO	Stopped listening on port 34325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669399248222	geckodriver	INFO	Listening on 127.0.0.1:41527
+1669399248226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIZ7lXo"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669399248772	Marionette	INFO	Marionette enabled
+1669399248774	Marionette	INFO	Listening on port 39233
+WebDriver BiDi listening on ws://127.0.0.1:59507
+Read port: 39233
+1669399248859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIZ7lXo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59507/devtools/browser/b54aac98-153b-4786-a2fd-b958aa1d6d2d
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669399800783	Marionette	INFO	Stopped listening on port 39233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669400016777	geckodriver	INFO	Listening on 127.0.0.1:43623
+1669400016780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJcEL9I"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400017309	Marionette	INFO	Marionette enabled
+1669400017312	Marionette	INFO	Listening on port 33941
+WebDriver BiDi listening on ws://127.0.0.1:37799
+Read port: 33941
+1669400017484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJcEL9I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37799/devtools/browser/44c3138f-4cd7-4526-b60c-f0f35d1cc2d4
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669400074822	Marionette	INFO	Stopped listening on port 33941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669400111230	geckodriver	INFO	Listening on 127.0.0.1:41391
+1669400111234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEFh9Vi"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400111770	Marionette	INFO	Marionette enabled
+1669400111772	Marionette	INFO	Listening on port 40893
+WebDriver BiDi listening on ws://127.0.0.1:47867
+Read port: 40893
+1669400111939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEFh9Vi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47867/devtools/browser/c23d9fdb-691a-413b-9c67-b9eacc3910a9
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669400169776	Marionette	INFO	Stopped listening on port 40893
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669400192967	geckodriver	INFO	Listening on 127.0.0.1:48309
+1669400192972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezQUQJx"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400193923	Marionette	INFO	Marionette enabled
+1669400193928	Marionette	INFO	Listening on port 45047
+Read port: 45047
+WebDriver BiDi listening on ws://127.0.0.1:44909
+1669400194051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezQUQJx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44909/devtools/browser/ba5442c4-5a6c-408d-b766-4b5b1a203ae0
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669400267951	geckodriver	INFO	Listening on 127.0.0.1:46399
+1669400267954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGw7qTm"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400268500	Marionette	INFO	Marionette enabled
+1669400268504	Marionette	INFO	Listening on port 36343
+Read port: 36343
+WebDriver BiDi listening on ws://127.0.0.1:35609
+1669400268598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGw7qTm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35609/devtools/browser/02042fa6-c674-4a71-9209-fe2320701782
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669400386133	geckodriver	INFO	Listening on 127.0.0.1:39865
+1669400386136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesOjpLe"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400386681	Marionette	INFO	Marionette enabled
+1669400386684	Marionette	INFO	Listening on port 38529
+Read port: 38529
+WebDriver BiDi listening on ws://127.0.0.1:53461
+1669400386777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesOjpLe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53461/devtools/browser/3ab266ca-4a56-414e-b2e6-1f72cf473540
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669400622762	geckodriver	INFO	Listening on 127.0.0.1:34127
+1669400622765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile31pNdc"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400623335	Marionette	INFO	Marionette enabled
+1669400623338	Marionette	INFO	Listening on port 45199
+Read port: 45199
+WebDriver BiDi listening on ws://127.0.0.1:42693
+1669400623415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile31pNdc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42693/devtools/browser/4f0ab8b9-ce34-4ead-bb59-e54a1806c623
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669400674723	Marionette	INFO	Stopped listening on port 45199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669400730961	geckodriver	INFO	Listening on 127.0.0.1:37339
+1669400730965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH8pD5C"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400731534	Marionette	INFO	Marionette enabled
+1669400731537	Marionette	INFO	Listening on port 36567
+Read port: 36567
+WebDriver BiDi listening on ws://127.0.0.1:37949
+1669400731614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH8pD5C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37949/devtools/browser/55d336c2-dc64-424e-a2cc-65667f76ef0f
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669400795718	Marionette	INFO	Stopped listening on port 36567
+1669400822823	geckodriver	INFO	Listening on 127.0.0.1:50805
+1669400822826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuCYrsk"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400823400	Marionette	INFO	Marionette enabled
+1669400823403	Marionette	INFO	Listening on port 33221
+Read port: 33221
+WebDriver BiDi listening on ws://127.0.0.1:54531
+1669400823483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuCYrsk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54531/devtools/browser/7bd0cf91-599a-4eca-9263-9cfdc04dcc17
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669400948733	geckodriver	INFO	Listening on 127.0.0.1:55443
+1669400948736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQzWCVQ"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669400949333	Marionette	INFO	Marionette enabled
+1669400949336	Marionette	INFO	Listening on port 36553
+Read port: 36553
+WebDriver BiDi listening on ws://127.0.0.1:50077
+1669400949413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQzWCVQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50077/devtools/browser/3a93670f-da4b-4cfd-9e1c-94556f28f53a
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669401037006	Marionette	INFO	Stopped listening on port 36553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669401093388	geckodriver	INFO	Listening on 127.0.0.1:55475
+1669401093391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK0iNiN"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669401093949	Marionette	INFO	Marionette enabled
+1669401093952	Marionette	INFO	Listening on port 44747
+Read port: 44747
+WebDriver BiDi listening on ws://127.0.0.1:57973
+1669401094029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK0iNiN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57973/devtools/browser/5a8fb744-ab39-473c-b256-88c3f77c651e
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669401362257	Marionette	INFO	Stopped listening on port 44747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669401391024	geckodriver	INFO	Listening on 127.0.0.1:52561
+1669401391027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqSr5te"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669401391597	Marionette	INFO	Marionette enabled
+1669401391600	Marionette	INFO	Listening on port 34559
+Read port: 34559
+WebDriver BiDi listening on ws://127.0.0.1:34755
+1669401391678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqSr5te/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34755/devtools/browser/af2644db-385e-4e0e-8125-cbb0f17eb55c
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669401466034	geckodriver	INFO	Listening on 127.0.0.1:42473
+1669401466038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOqaIP7"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669401466628	Marionette	INFO	Marionette enabled
+1669401466630	Marionette	INFO	Listening on port 40195
+Read port: 40195
+WebDriver BiDi listening on ws://127.0.0.1:59681
+1669401466708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOqaIP7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59681/devtools/browser/683d57fa-9311-4095-94ea-593a0e951867
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669401567107	Marionette	INFO	Stopped listening on port 40195
+1669401677131	geckodriver	INFO	Listening on 127.0.0.1:59805
+1669401677134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilempAcMb"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669401677720	Marionette	INFO	Marionette enabled
+1669401677723	Marionette	INFO	Listening on port 45903
+Read port: 45903
+WebDriver BiDi listening on ws://127.0.0.1:39625
+1669401677806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilempAcMb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39625/devtools/browser/fb7bca01-89be-40f7-8f07-b4107faa9c79
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669401893407	Marionette	INFO	Stopped listening on port 45903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669401922397	geckodriver	INFO	Listening on 127.0.0.1:43347
+1669401922401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3uDgRD"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669401923079	Marionette	INFO	Marionette enabled
+1669401923083	Marionette	INFO	Listening on port 41395
+Read port: 41395
+WebDriver BiDi listening on ws://127.0.0.1:52515
+1669401923175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3uDgRD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52515/devtools/browser/d4eb0195-bd2c-417d-87cf-373f0a9f4a63
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669401986458	geckodriver	INFO	Listening on 127.0.0.1:39509
+1669401986462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqlS2ks"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669401987155	Marionette	INFO	Marionette enabled
+1669401987158	Marionette	INFO	Listening on port 34917
+Read port: 34917
+WebDriver BiDi listening on ws://127.0.0.1:35185
+1669401987280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqlS2ks/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35185/devtools/browser/f64bd40d-678c-40a5-acba-da614027bc3a
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669402087717	geckodriver	INFO	Listening on 127.0.0.1:38711
+1669402087721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezuSmEm"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669402088405	Marionette	INFO	Marionette enabled
+1669402088408	Marionette	INFO	Listening on port 43053
+Read port: 43053
+WebDriver BiDi listening on ws://127.0.0.1:53023
+1669402088498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezuSmEm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53023/devtools/browser/7c7e313b-f054-4be1-91e1-7a1239160bcd
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669402201117	geckodriver	INFO	Listening on 127.0.0.1:43595
+1669402201121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejzGGJq"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669402201790	Marionette	INFO	Marionette enabled
+1669402201793	Marionette	INFO	Listening on port 40277
+Read port: 40277
+WebDriver BiDi listening on ws://127.0.0.1:39077
+1669402201893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejzGGJq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39077/devtools/browser/3c0ab440-6c3f-453b-8728-0ca8c61aa5b8
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669402218928	geckodriver	INFO	Listening on 127.0.0.1:60505
+1669402218932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuCiWkn"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669402219614	Marionette	INFO	Marionette enabled
+1669402219619	Marionette	INFO	Listening on port 46169
+Read port: 46169
+WebDriver BiDi listening on ws://127.0.0.1:50817
+1669402219710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuCiWkn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50817/devtools/browser/b495b998-d5c9-4877-b078-f8bb017a3783
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: https://web.bossvip.club/assets/main/index.b1477.js, line 1: TypeError: this.clickedItems[this.onClickedItemId] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669402368332	geckodriver	INFO	Listening on 127.0.0.1:50529
+1669402368336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOLJGTI"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669402368985	Marionette	INFO	Marionette enabled
+1669402368989	Marionette	INFO	Listening on port 41171
+Read port: 41171
+WebDriver BiDi listening on ws://127.0.0.1:55593
+1669402369094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOLJGTI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55593/devtools/browser/2bae778c-f107-4484-9418-1c0df84972d8
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: https://web.bossvip.club/assets/main/index.b1477.js, line 1: TypeError: this.clickedItems[this.onClickedItemId] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669402474161	geckodriver	INFO	Listening on 127.0.0.1:53777
+1669402474165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezu2pFn"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669402474727	Marionette	INFO	Marionette enabled
+1669402474730	Marionette	INFO	Listening on port 40853
+Read port: 40853
+WebDriver BiDi listening on ws://127.0.0.1:46591
+1669402474808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezu2pFn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46591/devtools/browser/52e349ad-feff-4f44-9260-066d4d4f55ca
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1669402808783	Marionette	INFO	Stopped listening on port 40853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669402815720	geckodriver	INFO	Listening on 127.0.0.1:52313
+1669402815724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqn5srK"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669402816341	Marionette	INFO	Marionette enabled
+1669402816344	Marionette	INFO	Listening on port 44563
+WebDriver BiDi listening on ws://127.0.0.1:41005
+Read port: 44563
+1669402816539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqn5srK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41005/devtools/browser/87ab1da5-22b1-4890-83d9-482657b45252
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669403083397	geckodriver	INFO	Listening on 127.0.0.1:54389
+1669403083400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYHXpzR"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669403084012	Marionette	INFO	Marionette enabled
+1669403084015	Marionette	INFO	Listening on port 35977
+WebDriver BiDi listening on ws://127.0.0.1:45329
+Read port: 35977
+1669403084210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYHXpzR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45329/devtools/browser/668040f7-edd6-4b8a-a674-5fa29dec17b7
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669403274506	geckodriver	INFO	Listening on 127.0.0.1:53429
+1669403274509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileavIfRf"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669403275059	Marionette	INFO	Marionette enabled
+1669403275062	Marionette	INFO	Listening on port 41821
+Read port: 41821
+WebDriver BiDi listening on ws://127.0.0.1:44365
+1669403275150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileavIfRf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44365/devtools/browser/3ab770bb-0d74-4751-b586-4aca9ad7c3d9
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669403424947	Marionette	INFO	Stopped listening on port 41821
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669437382465	geckodriver	INFO	Listening on 127.0.0.1:54387
+1669437382973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles5RpwQ"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669437383676	Marionette	INFO	Marionette enabled
+1669437383679	Marionette	INFO	Listening on port 40387
+WebDriver BiDi listening on ws://127.0.0.1:33605
+Read port: 40387
+1669437383901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles5RpwQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33605/devtools/browser/7086876a-77de-45ec-bc65-b59ca14116e1
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669437445847	geckodriver	INFO	Listening on 127.0.0.1:57163
+1669437445850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHPRBSh"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669437446438	Marionette	INFO	Marionette enabled
+1669437446441	Marionette	INFO	Listening on port 43115
+Read port: 43115
+WebDriver BiDi listening on ws://127.0.0.1:60669
+1669437446518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHPRBSh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60669/devtools/browser/5479147b-f035-482a-b03e-e9818cfd7ad2
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669437554905	Marionette	INFO	Stopped listening on port 43115
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669437726724	geckodriver	INFO	Listening on 127.0.0.1:36751
+1669437726727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev7U9HH"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669437727288	Marionette	INFO	Marionette enabled
+1669437727291	Marionette	INFO	Listening on port 33633
+Read port: 33633
+WebDriver BiDi listening on ws://127.0.0.1:57621
+1669437727368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev7U9HH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57621/devtools/browser/82ac7577-c993-426c-a3a2-45c1fd713f69
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669437820693	Marionette	INFO	Stopped listening on port 33633
